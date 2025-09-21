@@ -1,0 +1,1 @@
+This file contains on my project on a Tip calculator which includes simple input-output and arithmetic I learnt from the previous project along with new output manipulator setting the decimal point to 2
